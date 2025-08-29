@@ -35,7 +35,7 @@ This ER Diagram represents a simplified model of the **IRCTC online railway book
 
 ---
 
-## 📌 Relationships
+## Relationships
 
 1. **Books Ticket (Passenger – Ticket)**
 
